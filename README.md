@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there ,I am Vnoolx👋
+welcome my github 
 
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vnollx&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vnollx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Vnollx/Vnollx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +15,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...11
 - ⚡ Fun fact: ...
 -->
